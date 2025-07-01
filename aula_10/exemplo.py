@@ -55,4 +55,9 @@
 
 ##############################################################
 
-import requests
+# API
+
+#backend / cozinha
+frutas = ["uva", "maca", "laranja", "carambola"]
+
+print(frutas)
