@@ -4,7 +4,7 @@ import requests
 def consultar_cep(value):
     URL = f"https://viacep.com.br/ws/{value}/json/"
 
-    print(value)
+    # print(value)
 
     response = requests.get(URL)
 
