@@ -1,0 +1,5 @@
+nome,idade,cidade
+Ana,28,São Paulo
+João,32,Tocantins
+Pedro,18,Recife
+danilo,25,Recife
